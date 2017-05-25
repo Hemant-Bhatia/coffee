@@ -1,0 +1,108 @@
+/*body {
+	background: url(https://source.unsplash.com/gH5BrIGSPyU);
+	background-size: cover;
+	background-repeat: no-repeat;
+}*/
+
+/*.navbar-nav {
+		background: #c19156;
+		color: white;
+	}*/
+
+/*body {
+	padding-top: 20px;
+}*/
+
+/*#text {
+	margin-top: 25%;
+	color: red;
+	text-align: center;
+	background: url(https://source.unsplash.com/gH5BrIGSPyU);
+}*/
+
+/*body {
+	font-family: 'Barrio', cursive;
+}*/
+
+.navbar-default .navbar-brand {
+	background: url(https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg);
+	background-size: cover;
+}
+
+.firstlogo {
+	background: url(https://source.unsplash.com/gH5BrIGSPyU);
+	background-size: cover;
+	/*background-position: center;*/
+	padding-top: 50px;
+}
+
+/*.firstlogo p {
+	height: 110%;
+}*/
+
+.secondlogo {
+	background: url(https://source.unsplash.com/t895lYpu1ec);
+	background-size: cover;
+	/*background-position: center;*/
+	/*padding-top: 120px;*/
+}
+
+.details-first-logo {
+	padding-top: 50px;
+	height: 78%;
+	color: black;
+	max-width: 20%;
+	/*border: 2px solid black;*/
+	font-family:'Barrio', cursive;
+	font-size: 25px;
+}
+
+.details-first-logo h3 {
+	text-decoration: underline;
+}
+
+/*.details-first-logo p {
+	width: 20%;
+	color: black;
+}*/
+
+.details-second-logo {
+	padding-top: 50px;
+	height: 78%;
+	/*padding-left: 75%;*/
+	max-width: 20%;
+	font-family:'Barrio', cursive;
+	font-size: 25px;
+	color: white;
+	/*font-weight: bold;*/
+}
+
+.details-second-logo h3 {
+	text-decoration: underline;
+}
+
+.coffee-types {
+	border: 2px	solid black;
+	margin: 10px;
+	/*background: lightslategrey;*/
+	width: 23%;
+	text-align: center;
+	font-family:'Barrio', cursive;
+	margin-bottom: 20px;
+}
+
+.about-crema {
+	padding-top: 50%;
+	text-align: center;
+	color: white;
+}
+
+.coffee-intro {
+	text-align: center;
+	font-family: 'Barrio', cursive;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
