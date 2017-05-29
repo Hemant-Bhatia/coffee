@@ -1,0 +1,73 @@
+body {
+	padding-top: 50px;
+	/*overflow-x: hidden;*/
+	/*background: #D3D3D3;*/
+}
+
+.first-column {
+	background: url(https://source.unsplash.com/RU_tbBSuH_8);
+	background-size: cover;
+	background-position: center;
+	padding-top: 50px;
+	height: 100%;
+	/*width: 104%;*/
+}
+
+.content {
+	text-align: center;
+	font-family:'Barrio', cursive;
+	padding-top: 5%;
+	color: white;
+	text-shadow: 0px 0px 8px rgba(0,0,0,0.4),
+				 0px 0px 23px rgba(0,0,0,0.4),
+				 0px 3px 30px rgba(0,0,0,0.8);
+	/*border: 2px solid #333;*/
+}
+
+h3 {
+	font-size: 3em;
+	padding-bottom: 20px;
+	text-decoration: underline;
+}
+
+p {
+	font-size: 20px;
+	padding: 10px;
+	text-shadow: 0px 0px 8px rgba(0,0,0,0.4),
+				 0px 0px 23px rgba(0,0,0,0.4),
+				 0px 3px 30px rgba(0,0,0,0.8);
+}
+
+.middle-column {
+	background: url(https://source.unsplash.com/SjEjg7a7OBY);
+	background-size: cover;
+	background-position: center;
+	height: 99.99%;
+	/*width: 104%;*/
+}
+
+.third-column {
+	background: url(https://source.unsplash.com/zlwDJoKTuA8);
+	background-size: cover;
+	/*background-position: center;*/
+	padding-top: 50px;
+	height: 100%;
+	/*width: 104%;*/
+}
+
+a {
+	color: white;
+}
+
+a:visited {
+	/*color: #337ab7;*/
+}
+
+a:hover {
+	color: #337ab7
+}
+
+.col-lg-4 {
+	padding: 0;
+	/*border: 2px solid #333;*/
+}
