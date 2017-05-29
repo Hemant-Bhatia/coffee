@@ -24,7 +24,12 @@
 	font-family: 'Barrio', cursive;
 }*/
 
-.navbar-default .navbar-brand {
+/*.navbar-default .navbar-brand {
+	background: url(https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg);
+	background-size: cover;
+}*/
+
+.navbar-default {
 	background: url(https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg);
 	background-size: cover;
 }
@@ -34,6 +39,7 @@
 	background-size: cover;
 	/*background-position: center;*/
 	padding-top: 50px;
+	/*height: 85%;*/
 }
 
 /*.firstlogo p {
@@ -54,7 +60,7 @@
 	max-width: 20%;
 	/*border: 2px solid black;*/
 	font-family:'Barrio', cursive;
-	font-size: 25px;
+	font-size: 2em;
 }
 
 .details-first-logo h3 {
@@ -72,7 +78,7 @@
 	/*padding-left: 75%;*/
 	max-width: 20%;
 	font-family:'Barrio', cursive;
-	font-size: 25px;
+	font-size: 2em;
 	color: white;
 	/*font-weight: bold;*/
 }
@@ -85,7 +91,8 @@
 	border: 2px	solid black;
 	margin: 10px;
 	/*background: lightslategrey;*/
-	width: 23%;
+	/*width: 50%;*/
+	padding: 3%;
 	text-align: center;
 	font-family:'Barrio', cursive;
 	margin-bottom: 20px;
@@ -102,7 +109,21 @@
 	font-family: 'Barrio', cursive;
 }
 
-.flex {
+/*.flex {
 	display: flex;
 	flex-wrap: wrap;
+}*/
+
+.navbar-default .navbar-nav>li>a {
+	color: #000000;
+	/*font-weight: bold;*/
+	/*font-family: 'Barrio', cursive;*/
+	/*font-weight: bold;*/
+	font-size: 15px; 
+}
+
+.navbar-default .navbar-brand {
+	color: #000000;
+	font-family: 'Barrio', cursive;
+	font-weight: bold;
 }
